@@ -1,0 +1,76 @@
+*{
+	font-family: Arial;
+}
+ul li{
+	list-style: none;
+}
+.fondo {
+  	background-image: url(../img/grupal.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.home{
+	min-height: 700px;
+}
+.boton{
+	display: inline-block;
+	background-color: #E6991A;
+	border-radius: 7px;
+	padding: 10px;
+	margin:70px;
+}
+.boton a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	color:black;	
+}
+.logo{
+	margin-left: 350px;
+	position: relative;
+	top: -80px;
+}
+.logo img{
+	width: 50%;
+}
+.lista{
+	margin-left: 75%;
+	position: relative;
+	top: -100px;
+}
+.lista ul li{
+	float: left;
+	display: inline;
+}
+.lista a{
+	margin: 5px;
+	color: black;
+	font-size: 18px;
+	text-decoration: none;
+}
+.fotos{
+	padding: 10px;
+}
+.fotos 	img{
+	width:360px;
+	display: inline;
+	float: left;
+	margin: 10px;
+}
+.fotos 	p{
+	margin-left: 10px;
+	font-weight: bold;
+}
+footer{
+	background-color: #565050;
+	color: white;
+	padding: 20px 80px 20px 0px;
+}
+footer p{
+	position: relative;
+	left: -80px;
+}
+
+
+
